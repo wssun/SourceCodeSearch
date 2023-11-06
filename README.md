@@ -30,7 +30,7 @@ Please read and cite our paper: 。。。
 ----------
 
 ## Overall Framework of the code search technique
-![dlapr](figs/framework_of_code_search.pdf)
+![dlapr](figs/framework_of_code_search.png)
 ----------
 
 ## Collected Papers in Query End
