@@ -36,7 +36,7 @@ Please read and cite our paper: 。。。
 ## Collected Papers in Query End
 | **Paper Title** | **Venue** | **Year** | **Code Available**|
 | --------------- | ---- | ---- | --- |
-| [Neural Transfer Learning for Repairing Security Vulnerabilities in C Code](https://ieeexplore.ieee.org/abstract/document/9699412/) | _TSE_ | 2022 | [yes](https://github.com/SteveKommrusch/VRepair) |
+| [Augmenting and structuring user queries to support efficient free-form code search](http://link.springer.com/10.1007/s10664-017-9544-y) | _ESE_ | 2018 | no |
 | [Vulrepair: A T5-based Automated Software Vulnerability Repair](https://dl.acm.org/doi/abs/10.1145/3540250.3549098) | _ESEC/FSE_ | 2022 |[yes](https://github.com/awsm-research/VulRepair)|
 | [Seqtrans: Automatic Vulnerability Fix Via Sequence to Sequence Learning](https://ieeexplore.ieee.org/abstract/document/9729554/) | _TSE_ | 2022 |[yes](https://github.com/chijianlei/SeqTrans)|
 | [Learning to Repair Software Vulnerabilities with Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2018/hash/68abef8ee1ac9b664a90b0bbaff4f770-Abstract.html) | _NeurIPS_ | 2018 | no |
