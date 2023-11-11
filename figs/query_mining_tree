@@ -1,0 +1,185 @@
+\tikzstyle{my-box}=[
+    rectangle,
+    draw=hidden-draw,
+    rounded corners,
+    text opacity=1,
+    minimum height=1.5em,
+    minimum width=5em,
+    inner sep=2pt,
+    align=center,
+    fill opacity=.5,
+    line width=0.8pt,
+]
+\tikzstyle{leaf}=[my-box, minimum height=1.5em,
+    %fill=mylightpurple!60,
+    text=black,
+    align=center,
+    font=\normalsize,
+    inner xsep=2pt,
+    inner ysep=4pt,
+    line width=0.8pt,
+]
+\begin{figure*}[!th]
+    \centering
+    \resizebox{0.98\textwidth}{!}{
+        \begin{forest}
+            forked edges,
+            for tree={
+                grow=east,
+                reversed=true,
+                anchor=base west,
+                parent anchor=east,
+                child anchor=west,
+                base=left,
+                font=\large,
+                rectangle,
+                draw=hidden-draw,
+                rounded corners,
+                align=certer,
+                minimum width=4em,
+                edge+={darkgray, line width=1pt},
+                s sep=3pt,
+                inner xsep=2pt,
+                inner ysep=3pt,
+                line width=1pt,
+                ver/.style={rotate=90, child anchor=north, parent anchor=south, anchor=center},
+            },
+            where level=1{text width=10em, font=\normalsize,}{},
+            where level=2{text width=4.5em, font=\normalsize,}{},
+            where level=3{text width=4.5em, font=\normalsize,}{},
+            where level=4{text width=4.5em, font=\normalsize,}{},
+            where level=5{text width=4.5em, font=\normalsize,}{},
+            where level=6{text width=4.5em, font=\normalsize,}{},
+            where level=7{text width=4.5em, font=\normalsize,}{},
+            where level=8{text width=4.5em, font=\normalsize,}{},
+            where level=9{text width=4.5em, font=\normalsize,}{},
+            where level=10{text width=4.5em, font=\normalsize,}{},
+            [
+                Query \\ Feature \\ Mining
+                [  
+                    \hspace{4.5pt} Query Reduction \\ (\S\ref{subsubsec:query_expansion})
+                    [
+                        [
+                            \hspace{6.5pt}\cite{2016-APIBook}
+                            [
+                                
+                                [
+                             
+                                    [
+                                 \hspace{7.5pt}\cite{2019-QESC}
+                                        [
+                                
+                                            [
+                                
+                                                [
+                                        
+                                                    [
+                                                    \hspace{6.5pt}\cite{2023-XCoS}
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+                [                
+                    \hspace{4.5pt} Query Expansion  \\ (\S \ref{subsubsec:query_expansion})
+                    [
+                        \cite{2015-CodeHow, 2015-Query-expansion-via-WordNet}
+                        [
+                            \hspace{7.5pt}\cite{2016-Query-Expansion-Based-on-Crowd-Knowledge-for-CS}
+                            [
+                                \hspace{6.5pt}\cite{2017-IECS}
+                                [
+                                    \cite{2018-Interactive-Query-Reformulation, 2018-Expanding-Queries-for-Code-Search} \\
+                                    \cite{2018-Language-agnostic-Source-Code-Retrieval, 2018-Query-Expansion-Based-on-Code-Changes}
+                                    [
+                                        \cite{2019-NQE, 2019-QESC}
+                                        [
+                                            \hspace{7.5pt}\cite{2020-Unsupervised-Software-Repositories}
+                                            [
+                                                \hspace{10.5pt}\cite{2021-Search-for-Compatible-Code}
+                                                [
+                                        
+                                                    [
+                                                        \hspace{7.5pt}\cite{2023-Self-Supervised-Query-Reformulation}
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+                [  
+                    Query Transformation \\ (\S\ref{subsubsec:query_transformation})
+                    [
+                        % ~\etal~\cite{xx}
+                        [
+                            % ~\cite{xx}
+                            [
+                                % ~\cite{xxx}
+                                [
+                                    \hspace{7.5pt}\cite{2018-Augmenting-and-Structuring-User-Query}
+                                    [
+                                        % ~\cite{xxx}
+                                        [
+                                            % ~\cite{xxx}
+                                            [
+                                                \hspace{7.5pt}\cite{2021-DGMS}
+                                                [
+                                                    \hspace{6.5pt}\cite{2022-Enriching-Query-Semantics-for-CS-with-Reinforcement-Learning}
+                                                    [
+                                                        \hspace{6.5pt}\cite{2023-Hyperbolic-Code-Retrieval}
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        \end{forest}
+    }
+
+    
+    \begin{tikzpicture}[x=30]
+        % draw a horizontal line
+        \draw[line width=1pt] (0,0) -- (1.5,0);
+        \draw[snake=snake, line width=1pt, segment amplitude=2pt, segment length=6pt] (1.5,0) -- (3,0);
+        \draw[-stealth, line width=1pt,] (3,0) -- (13,0);
+        
+        % draw vertical lines
+        %\foreach \x in {0.9,1.9,2.9,3.9,5,6.2,7.3,8.5,9.6,10.8,11.9,13.1}
+        \foreach \x in {3.9,5,6.2,7.4,8.6,9.7,10.8,12,13.1}
+        \draw (\x cm,3pt) -- (\x cm,-3pt);
+        
+        % draw nodes to add events
+        \draw (0.9,0) node[below=3pt] {(year)} node[above=3pt] {};
+        \draw (1.8,0) node[below=3pt] {} node[above=3pt] {};
+        \draw (2.8,0) node[below=3pt] {} node[above=3pt] {};
+        \draw (3.7,0) node[below=3pt] {2015} node[above=3pt] {};
+        \draw (4.7,0) node[below=3pt] {2016} node[above=3pt] {};
+        \draw (5.9,0) node[below=3pt] {2017} node[above=3pt] {};
+        \draw (7.0,0) node[below=3pt] {2018} node[above=3pt] {};
+        \draw (8.1,0) node[below=3pt] {2019} node[above=3pt] {};
+        \draw (9.2,0) node[below=3pt] {2020} node[above=3pt] {};
+        \draw (10.3,0) node[below=3pt] {2021} node[above=3pt] {};
+        \draw (11.4,0) node[below=3pt] {2022} node[above=3pt] {};
+        \draw (12.4,0) node[below=3pt] {2023} node[above=3pt] {};
+        
+    \end{tikzpicture}
+
+    
+    
+    \caption{Evolution of feature mining techniques in query end}
+    \label{fig:evolution_query_feature_mining}
+\end{figure*}
