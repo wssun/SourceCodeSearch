@@ -39,7 +39,7 @@ Please read and cite our paper: 。。。
 | [Augmenting and structuring user queries to support efficient free-form code search](http://link.springer.com/10.1007/s10664-017-9544-y) | _ESE_ | 2018 | no                                           |
 | [Automatic query reformulation for code search using crowdsourced knowledge](http://link.springer.com/10.1007/s10664-018-9671-0) | _ESE_ | 2019 | no                                           |
 | [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/) | _ASE_ | 2015 | no |
-| [CONQUER: A Tool for NL-based Query Reﬁnement & Contextualizing Code Search Results]() | _???_ | ??? | ??? |
+| [CONQUER: A Tool for NL-based Query Reﬁnement & Contextualizing Code Search Results](https://ieeexplore.ieee.org/abstract/document/6676945/) | _ICSME_ | 2013 | no |
 | [Deep learning the semantics of change sequences for query expansion](https://onlinelibrary.wiley.com/doi/10.1002/spe.2736) | _Softw. Pract. Exp._ | 2019 | no                                           |
 | [Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics](http://arxiv.org/abs/1807.08798) | _ICSME_ | 2018 | no                                           |
 | [Enhancing example-based code search with functional semantics](https://linkinghub.elsevier.com/retrieve/pii/S0164121220300492) | _JSS_ | 2020 | no                                           |
@@ -55,7 +55,7 @@ Please read and cite our paper: 。。。
 | [Query expansion based on statistical learning from code changes](http://ieeexplore.ieee.org/document/7372014/) | _Softw. Pract. Exp._ | 2018 | no |
 | [Query expansion via WordNet for effective code search](http://ieeexplore.ieee.org/document/7081874/) | _SANER_ | 2015 | no |
 | [RACK: Automatic API Recommendation Using Crowdsourced Knowledge](http://ieeexplore.ieee.org/document/7476656/) | _SANER_ | 2016 | no |
-| [RunEx: Augmenting Regular-Expression Code Search with Runtime Values]() | _???_ | ??? | ??? |
+| [RunEx: Augmenting Regular-Expression Code Search with Runtime Values](https://from.so/static/dbaae30940b60addb67914a0cf61f215/Run_Exp_VLHCC_2023_386558a2d3.pdf) | _VL/HCC_ | 2023 | no |
 | [Search for Compatible Source Code](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500169) | _Int. J. Soft. Eng. Knowl. Eng._ | 2021 | no |
 | [Self-Supervised Query Reformulation for Code Search](http://arxiv.org/abs/2307.00267) | _arXiv_ | 2023 | [yes](https://github.com/RedSmallPanda/SSQR) |
 | [SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis](https://dl.acm.org/doi/10.1145/2884781.2884808) | _ICSE_ | 2016 | no |
