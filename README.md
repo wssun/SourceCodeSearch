@@ -1,7 +1,9 @@
 # A Survey of Source Code Search: A 3-Dimensional Perspective
 
+A collection of academic papers on code search techniques from a **3-dimensional (query-end, code-end, match-end)** perspective. 
 
-**NOTE: We intend to keep updating with the most recent papers whenever time permits, and we warmly welcome pull requests or issues regarding any missing papers.**
+
+**NOTE: We intend to keep updating with the most recent papers whenever time permits, and we warmly welcome pull requests or issues regarding any missing papers. If you find any information is incorrect, please feel free to contact us. We will promptly confirm and make the necessary corrections. All researchers are encouraged to participate in enhancing this repository and expanding the knowledge within the field of source code search.**
 
 
 [//]: # ([![Awesome]&#40;https://awesome.re/badge.svg&#41;]&#40;https://awesome.re&#41;)
@@ -12,11 +14,10 @@
 
 [//]: # (![visitor badge]&#40;https://visitor-badge.glitch.me/badge?page_id=%20QuanjunZhang.AwesomeLearningAPR&#41; )
 
-A collection of academic papers of code search techniques in a **3-dimensional(query-end, code-end, match-end)** perspective.
 
 
 
-All researchers are encouraged to participate in enhancing this repository and expanding the knowledge within the field of source code search.
+
 
 ## Citation
 
@@ -24,6 +25,10 @@ Please read and cite our paper: 。。。
 
 ```
 @article{
+  title={A Survey of Source Code Search: A 3-Dimensional Perspective},
+  author={Weisong Sun, Chunrong Fang, Yifei Ge, Yuling Hu, Yuchen Chen, Quanjun Zhang, Xiuting Ge, Yang Liu, Zhenyu Chen},
+  journal={arXiv preprint arXiv:2301.03270},
+  year={2023}
 }
 ```
 
@@ -122,6 +127,3 @@ Please read and cite our paper: 。。。
 | [SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations](http://arxiv.org/abs/2201.01549) | _arXiv_ | 2022 | no |
 | [TranS^3: A Transformer-based Framework for Unifying Code Summarization and Code Search](http://arxiv.org/abs/2003.03238) | _arXiv_ | 2020 | no |
 
-
-----------
-**If you find any  information is incorrect, please feel free to contact us. We will promptly confirm and make the necessary corrections.**
