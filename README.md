@@ -96,8 +96,8 @@ Please read and cite our paper: 。。。
 | [Portfolio: finding relevant functions and their usage](https://dl.acm.org/doi/10.1145/1985793.1985809) | _ICSE_     | 2011    | no |
 | [PSCS: A Path-based Neural Model for Semantic Code Search](http://arxiv.org/abs/2008.03042) | _arXiv_     | 202     | no |
 | [Self-Attention Networks for Code Search](https://linkinghub.elsevier.com/retrieve/pii/S0950584921000288) | _Inf. Softw. Technol._     | 2021   | [yes](https://github.com/TomasAndersonFang/SANCS) |
-| [Semantic code search via equational reasoning](https://dl.acm.org/doi/10.1145/3385412.3386001) | _PLDI_     | 2020   | no |
-| [Semantic Code Search with Neural Bag-of-Words and Graph Convolutional Networks](https://dl.gi.de/server/api/core/bitstreams/429a559b-4275-4ac6-9a9b-f40ffd886594/content) | _SKILL_     | 2020     | no |
+| [Recommendation Based on Java Code Analysis and Search](https://ebooks.iospress.nl/doi/10.3233/FAIA200728) | FSDM                          | 2020     | [yes](https://github.com/fushanqing/CodeTip)             |
+| [CSDA: A novel attention-based LSTM approach for code search](https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012056/meta) | JPCS                          | 2020     | no                                                       |
 | [Sourcerer: mining and searching internet-scale software repositories](http://link.springer.com/10.1007/s10618-008-0118-x) | _Data Min. Knowl. Discov._     | 2009    | no |
 | [Two-Stage Attention-Based Model for Code Search with Textual and Structural Features](https://ieeexplore.ieee.org/document/9425924/) | _SANER_     | 2021     | [yes](https://github.com/cqu-isse/TabCS) |
 | [Utilizing Edge Attention in Graph-Based Code Search](http://ksiresearchorg.ipage.com/seke/seke22paper/paper078.pdf) | _SEKE_     | 2022    | no |
