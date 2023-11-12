@@ -66,7 +66,7 @@ Please read and cite our paper: 。。。
 ----------
 
 ## Collected Papers in Code End
-| **Paper Title** | **Venue** | **Year** | **Code Available**|f
+| **Paper Title** | **Venue** | **Year** | **Code Available**|
 | --------------- | ---- | ---- | -- |
 | [A Multi-Perspective Architecture for Semantic Code Search](https://www.aclweb.org/anthology/2020.acl-main.758) | _ACL_     | 2020     | [yes](https://github.com/rajarshihaldar/codetextmatch) |
 | [A neural framework for retrieval and summarization of source code](https://dl.acm.org/doi/10.1145/3238147.3240471) | _ASE_     | 2018     | no              |
@@ -102,13 +102,9 @@ Please read and cite our paper: 。。。
 | [Two-Stage Attention-Based Model for Code Search with Textual and Structural Features](https://ieeexplore.ieee.org/document/9425924/) | _SANER_     | 2021     | [yes](https://github.com/cqu-isse/TabCS) |
 | [Utilizing Edge Attention in Graph-Based Code Search](http://ksiresearchorg.ipage.com/seke/seke22paper/paper078.pdf) | _SEKE_     | 2022    | no |
 
-
-
-
-
 ----------
 ## Collected Papers in Match End
-| **Paper Title** | **Venue** | **Year** | **Code Available**|f
+| **Paper Title** | **Venue** | **Year** | **Code Available**|
 | --------------- | ---- | ---- | -- |
 | [A Compare-Aggregate Model for Matching Text Sequences](http://arxiv.org/abs/1611.01747) | _arXiv_ | 2016 | [yes](https://github.com/shuohangwang/SeqMatchSeq) |
 | [Accelerating Code Search with Deep Hashing and Code Classification](http://arxiv.org/abs/2203.15287) | _arXiv_ | 2022 | no |
