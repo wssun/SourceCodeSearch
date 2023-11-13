@@ -24,7 +24,7 @@ A collection of academic papers on code search techniques from a **3-dimensional
 Please read and cite our paper: 。。。
 
 ```
-@article{
+@article{2023-Code-Search-Survey-3D-Perspective,
   title={A Survey of Source Code Search: A 3-Dimensional Perspective},
   author={Weisong Sun, Chunrong Fang, Yifei Ge, Yuling Hu, Yuchen Chen, Quanjun Zhang, Xiuting Ge, Yang Liu, Zhenyu Chen},
   journal={arXiv preprint arXiv:2301.03270},
