@@ -121,8 +121,8 @@ Please read and cite our paper: 。。。
 | [OCoR: An Overlapping-Aware Code Retriever](https://dl.acm.org/doi/10.1145/1122445.1122456) | _Comput. Surv._ | 2022 | [yes](https://github.com/anyone546/OCoR.) |
 | [GraphCodeBERT: Pre-training Code Representations with Data Flow](http://arxiv.org/abs/2009.08366) | _arXiv_ | 2021 | no |
 | [GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search](http://arxiv.org/abs/2111.02671) | _arXiv_ | 2021 | no |
-| [Learning to rank code examples for code search engines](http://link.springer.com/10.1007/s10664-015-9421-5) | _Empirical Software Engineering_ | 2017 | no |
-| [ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets](https://ieeexplore.ieee.org/document/7516727/) | _IEEE Trans. Serv. Comput._ | 2022 | no |
+| [Learning to rank code examples for code search engines](http://link.springer.com/10.1007/s10664-015-9421-5) | _Empir. Softw. Eng._ | 2017 | no |
+| [ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets](https://ieeexplore.ieee.org/document/7516727/) |  _Trans. Serv. Comput._ | 2022 | no |
 | [Self-Supervised Contrastive Learning for Code Retrieval and Summarization via Semantic-Preserving Transformations](http://arxiv.org/abs/2009.02731) | _SIGIR_ | 2021 | no |
 | [SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations](http://arxiv.org/abs/2201.01549) | _arXiv_ | 2022 | no |
 | [TranS^3: A Transformer-based Framework for Unifying Code Summarization and Code Search](http://arxiv.org/abs/2003.03238) | _arXiv_ | 2020 | no |
