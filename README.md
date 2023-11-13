@@ -8,7 +8,7 @@ A collection of academic papers on code search techniques from a **3-dimensional
 
 [//]: # ([![Awesome]&#40;https://awesome.re/badge.svg&#41;]&#40;https://awesome.re&#41;)
 
-[//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2301.03270-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2301.03270&#41;)
+[![arXiv](https://img.shields.io/badge/arXiv-2301.03270-b31b1b.svg)](https://)
 
 ![GitHub stars](https://img.shields.io/github/stars/wssun/SourceCodeSearch?color=yellow&label=Stars)
 
