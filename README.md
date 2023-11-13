@@ -10,7 +10,7 @@ A collection of academic papers on code search techniques from a **3-dimensional
 
 [//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2301.03270-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2301.03270&#41;)
 
-[//]: # (![GitHub stars]&#40;https://img.shields.io/github/stars/QuanjunZhang/AwesomeLearningAPR?color=yellow&label=Stars&#41;)
+![GitHub stars](https://img.shields.io/github/stars/wssun/SourceCodeSearch?color=yellow&label=Stars)
 
 [//]: # (![visitor badge]&#40;https://visitor-badge.glitch.me/badge?page_id=%20QuanjunZhang.AwesomeLearningAPR&#41; )
 
