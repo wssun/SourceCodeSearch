@@ -39,7 +39,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-231
 
 ## Collected Papers in Query End
 | **Number** | **Paper Title** | **Venue** | **Year** | **Code Available**                           |
-| --- | --------------- | -- |------|----------------------------------------------|
+| - | --------------- | -- |------|----------------------------------------------|
 | 1 | [Augmenting and structuring user queries to support efficient free-form code search](http://link.springer.com/10.1007/s10664-017-9544-y) | _ESE_ | 2018 | no                                           |
 | 2 | [Automatic query reformulation for code search using crowdsourced knowledge](http://link.springer.com/10.1007/s10664-018-9671-0) | _ESE_ | 2019 | no                                           |
 | 3 | [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/) | _ASE_ | 2015 | no |
