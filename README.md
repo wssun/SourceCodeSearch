@@ -8,8 +8,7 @@ A collection of academic papers on code search techniques from a **3-dimensional
 
 [//]: # ([![Awesome]&#40;https://awesome.re/badge.svg&#41;]&#40;https://awesome.re&#41;)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2311.07107-b31b1b.svg)](https://https://arxiv.org/abs/2311.07107)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2311.07107-b31b1b.svg)](https://arxiv.org/abs/2311.07107)
 ![GitHub stars](https://img.shields.io/github/stars/wssun/SourceCodeSearch?color=yellow&label=Stars)
 
 [//]: # (![visitor badge]&#40;https://visitor-badge.glitch.me/badge?page_id=%20QuanjunZhang.AwesomeLearningAPR&#41; )
@@ -21,7 +20,7 @@ A collection of academic papers on code search techniques from a **3-dimensional
 
 ## Citation
 
-Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2311.07107-b31b1b.svg)](https://https://arxiv.org/abs/2311.07107)
+Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2311.07107-b31b1b.svg)](https://arxiv.org/abs/2311.07107)
 
 ```
 @article{2023-Code-Search-Survey-3D-Perspective,
