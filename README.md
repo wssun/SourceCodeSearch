@@ -43,54 +43,53 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-231
 | 1 | [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/) | _ASE_ | 2015 | no |
 | 2 | [Query expansion via WordNet for effective code search](http://ieeexplore.ieee.org/document/7081874/) | _SANER_ | 2015 | no |
 | 3 | [Query Expansion Based on Crowd Knowledge for Code Search](http://ieeexplore.ieee.org/document/7462267/) | _Trans. Serv. Comput._ | 2016 | no |
-| 4 | [SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis](https://dl.acm.org/doi/10.1145/2884781.2884808) | _ICSE_ | 2016 | no |
-| 5 | [APIBook: an effective approach for finding APIs](https://doi.org/10.1145/2993717.2993727) | _Internetware_ | 2016 | no |
-| 6 | [RACK: Automatic API Recommendation Using Crowdsourced Knowledge](http://ieeexplore.ieee.org/document/7476656/) | _SANER_ | 2016 | no |
-| 7 | [IECS: Intent-Enforced Code Search via Extended Boolean Model](https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/JIFS-161994) | _IFS_ | 2017 | no |
-| 8 | [Learning to rank code examples for code search engines](http://link.springer.com/10.1007/s10664-015-9421-5) | _Empir. Softw. Eng._ | 2017 | no |
-| 9 | [Augmenting and structuring user queries to support efficient free-form code search](http://link.springer.com/10.1007/s10664-017-9544-y) | _ESE_ | 2018 | no |
-| 10 | [Expanding Queries for Code Search Using Semantically Related API Class-names](https://ieeexplore.ieee.org/document/8031055/) | _TSE_ | 2018 | no |
-| 11 | [Deep code search](https://dl.acm.org/doi/10.1145/3180155.3180167) | _ICSE_     | 2018     | [yes](https://github.com/guxd/deep-code-search) |
-| 12 | [Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics](http://arxiv.org/abs/1807.08798) | _ICSME_ | 2018 | no |
-| 13 | [Retrieval on source code: a neural code search](http://arxiv.org/abs/2307.00267) | _PLDI_ | 2018 | no |
-| 14 | [Interactive Query Reformulation for Source-Code Search With Word Relations](https://ieeexplore.ieee.org/document/8552658/) | _IEEE Access_ | 2018 | no |
-| 15 | [LANGUAGE-AGNOSTIC SOURCE CODE RETRIEVAL USING KEYWORD & IDENTIFIER LEXICAL PATTERN](http://ieeexplore.ieee.org/document/7372014/) | _IJSECS_ | 2018 | no |
-| 16 | [Query expansion based on statistical learning from code changes](http://ieeexplore.ieee.org/document/7372014/) | _SPE_ | 2018 | no |
-| 17 | [Multi-modal Attention Network Learning for Semantic Source Code Retrieval](https://ieeexplore.ieee.org/document/8952337/) | _ASE_ | 2019 | no |
-| 18 | [Deep learning the semantics of change sequences for query expansion](https://onlinelibrary.wiley.com/doi/10.1002/spe.2736) | _SPE_ | 2019 | no |
-| 19 | [Neural query expansion for code search](https://dl.acm.org/doi/10.1145/3315508.3329975) | _PLDI_ | 2019 | no |
-| 20 | [Automatic query reformulation for code search using crowdsourced knowledge](http://link.springer.com/10.1007/s10664-018-9671-0) | _ESE_ | 2019 | no  |
-| 21 | [Unsupervised software repositories mining and its application to code search](https://dl.acm.org/doi/10.1145/3315508.3329975) | _SPE_ | 2020 | no |
-| 22 | [Enhancing example-based code search with functional semantics](https://linkinghub.elsevier.com/retrieve/pii/S0164121220300492) | _JSS_ | 2020 | no |
-| 23 | [CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning](http://arxiv.org/abs/2012.01028) | _arXiv_     | 2020     | no |
-| 24 | [Adaptive Deep Code Search](https://dl.acm.org/doi/10.1145/3387904.3389278) | _ICPC_     | 2020     | no |
-| 25 | [CSDA: A novel attention-based LSTM approach for code search](https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012056/meta) | _JPCS_   | 2020     | no |
-| 26 | [Improving Code Search with Co-Attentive Representation Learning](https://dl.acm.org/doi/10.1145/3387904.3389269) | _ICPC_     | 2020     | no |
-| 27 | [PSCS: A Path-based Neural Model for Semantic Code Search](http://arxiv.org/abs/2008.03042) | _arXiv_     | 2020     | no |
-| 28 | [Self-Attention Networks for Code Search](https://linkinghub.elsevier.com/retrieve/pii/S0950584921000288) | _Inf. Softw. Technol._     | 2021   | [yes](https://github.com/TomasAndersonFang/SANCS) |
-| 29 | [Search for Compatible Source Code](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500169) | _IJSEKE_ | 2021 | no |
-| 30 | [Multimodal Representation for Neural Code Search](http://arxiv.org/abs/2107.00992) | _ICSME_     | 2021     | [yes](https://github.com/jianguda/mrncs) |
-| 31 | [Enriching Query Semantics for Code Search with Reinforcement Learning](http://arxiv.org/abs/2105.09630) | _arXiv_ | 2021 | no |
-| 32 | [deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search](http://arxiv.org/abs/2103.13020) | _TOSEM_     | 2021     | [yse](https://github.com/degraphcs/DeGraphCS) |
-| 33 | [An Intelligent Code Search Approach Using Hybrid Encoders](https://www.hindawi.com/journals/wcmc/2021/9990988/) | _Wirel. Commun. Mob. Comput._ | 2021 | no  |
-| 34 | [Two-Stage Attention-Based Model for Code Search with Textual and Structural Features](https://ieeexplore.ieee.org/document/9425924/) | _SANER_     | 2021     | [yes](https://github.com/cqu-isse/TabCS) |
-| 35 | [Deep Graph Matching and Searching for Semantic Code Retrieval](https://dl.acm.org/doi/10.1145/3447571) | _Trans. Knowl. Discov. Data_     | 2021     | [yes](https://github.com/ryderling/DGMS) |
-| 36 | [CoNCRA: A Convolutional Neural Network Code Retrieval Approach](http://arxiv.org/abs/2009.01959)   | _arXiv_     | 2022     | no |
-| 37 | [OCoR: An Overlapping-Aware Code Retriever](https://dl.acm.org/doi/10.1145/1122445.1122456) | _Comput. Surv._ | 2022 | [yes](https://github.com/anyone546/OCoR.) |
-| 38 | [CSRS: Code Search with Relevance Matching and Semantic Matching](http://arxiv.org/abs/2203.07736) | _arXiv_     | 2022   | no |
-| 39 | [Fine-grained Co-Attentive Representation Learning for Semantic Code Search](https://ieeexplore.ieee.org/document/9825816/) | _SANER_     | 2022     | [yes](https://github.com/cqu-isse/FcarCS) |
-| 40 | [Boosting Code Search with Structural Code Annotation](https://www.mdpi.com/2079-9292/11/19/3053)  | _Electronics_    | 2022     | no  |
-| 41 | [Joint Embedding of Semantic and Statistical Features for Effective Code Search](https://www.mdpi.com/2076-3417/12/19/10002) | _Applied Sciences_     | 2022     | no |
-| 42 | [Learning Deep Semantic Model for Code Search using CodeSearchNet Corpus](http://arxiv.org/abs/2201.11313) | _arXiv_     | 2022     | [yes](https://github.com/overwindows/SemanticCodeSearch) |
-| 43 | [Incorporating Code Structure and Quality in Deep Code Search](https://www.mdpi.com/2076-3417/12/4/2051) | _Applied Sciences_     | 2022     | no |
-| 44 | [Utilizing Edge Attention in Graph-Based Code Search](http://ksiresearchorg.ipage.com/seke/seke22paper/paper078.pdf) | _SEKE_     | 2022    | no |
-| 45 | [CSSAM:Code Search via Attention Matching of Code Semantics and Structures](http://arxiv.org/abs/2208.03922) | _arXiv_     | 2022  | no |
-| 46 | [Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings](http://arxiv.org/abs/2308.15234) | _arXiv_ | 2023 | no |
-| 47 | [RunEx: Augmenting Regular-Expression Code Search with Runtime Values](https://from.so/static/dbaae30940b60addb67914a0cf61f215/Run_Exp_VLHCC_2023_386558a2d3.pdf) | _VL/HCC_ | 2023 | no |
-| 48 | [XCoS: Explainable Code Search Based on Query Scoping and Knowledge Graph](https://dl.acm.org/doi/10.1145/3315508.3329975) | _TOSEM_ | 2023 | no |
-| 49 | [Self-Supervised Query Reformulation for Code Search](http://arxiv.org/abs/2307.00267) | _arXiv_ | 2023 | [yes](https://github.com/RedSmallPanda/SSQR) |
+| 4 | [APIBook: an effective approach for finding APIs](https://doi.org/10.1145/2993717.2993727) | _Internetware_ | 2016 | no |
+| 5 | [IECS: Intent-Enforced Code Search via Extended Boolean Model](https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/JIFS-161994) | _IFS_ | 2017 | no |
+| 6 | [Learning to rank code examples for code search engines](http://link.springer.com/10.1007/s10664-015-9421-5) | _Empir. Softw. Eng._ | 2017 | no |
+| 7 | [Augmenting and structuring user queries to support efficient free-form code search](http://link.springer.com/10.1007/s10664-017-9544-y) | _ESE_ | 2018 | no |
+| 8 | [Expanding Queries for Code Search Using Semantically Related API Class-names](https://ieeexplore.ieee.org/document/8031055/) | _TSE_ | 2018 | no |
+| 9 | [Deep code search](https://dl.acm.org/doi/10.1145/3180155.3180167) | _ICSE_     | 2018     | [yes](https://github.com/guxd/deep-code-search) |
+| 10 | [Retrieval on source code: a neural code search](http://arxiv.org/abs/2307.00267) | _PLDI_ | 2018 | no |
+| 11 | [Interactive Query Reformulation for Source-Code Search With Word Relations](https://ieeexplore.ieee.org/document/8552658/) | _IEEE Access_ | 2018 | no |
+| 12 | [LANGUAGE-AGNOSTIC SOURCE CODE RETRIEVAL USING KEYWORD & IDENTIFIER LEXICAL PATTERN](http://ieeexplore.ieee.org/document/7372014/) | _IJSECS_ | 2018 | no |
+| 13 | [Query expansion based on statistical learning from code changes](http://ieeexplore.ieee.org/document/7372014/) | _SPE_ | 2018 | no |
+| 14 | [Multi-modal Attention Network Learning for Semantic Source Code Retrieval](https://ieeexplore.ieee.org/document/8952337/) | _ASE_ | 2019 | no |
+| 15 | [Deep learning the semantics of change sequences for query expansion](https://onlinelibrary.wiley.com/doi/10.1002/spe.2736) | _SPE_ | 2019 | no |
+| 16 | [Neural query expansion for code search](https://dl.acm.org/doi/10.1145/3315508.3329975) | _PLDI_ | 2019 | no |
+| 17 | [Automatic query reformulation for code search using crowdsourced knowledge](http://link.springer.com/10.1007/s10664-018-9671-0) | _ESE_ | 2019 | no  |
+| 18 | [Unsupervised software repositories mining and its application to code search](https://dl.acm.org/doi/10.1145/3315508.3329975) | _SPE_ | 2020 | no |
+| 19 | [CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning](http://arxiv.org/abs/2012.01028) | _arXiv_     | 2020     | no |
+| 20 | [Adaptive Deep Code Search](https://dl.acm.org/doi/10.1145/3387904.3389278) | _ICPC_     | 2020     | no |
+| 21 | [CSDA: A novel attention-based LSTM approach for code search](https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012056/meta) | _JPCS_   | 2020     | no |
+| 22 | [Improving Code Search with Co-Attentive Representation Learning](https://dl.acm.org/doi/10.1145/3387904.3389269) | _ICPC_     | 2020     | no |
+| 23 | [PSCS: A Path-based Neural Model for Semantic Code Search](http://arxiv.org/abs/2008.03042) | _arXiv_     | 2020     | no |
+| 24 | [Self-Attention Networks for Code Search](https://linkinghub.elsevier.com/retrieve/pii/S0950584921000288) | _Inf. Softw. Technol._     | 2021   | [yes](https://github.com/TomasAndersonFang/SANCS) |
+| 25 | [Search for Compatible Source Code](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500169) | _IJSEKE_ | 2021 | no |
+| 26 | [Multimodal Representation for Neural Code Search](http://arxiv.org/abs/2107.00992) | _ICSME_     | 2021     | [yes](https://github.com/jianguda/mrncs) |
+| 27 | [Enriching Query Semantics for Code Search with Reinforcement Learning](http://arxiv.org/abs/2105.09630) | _arXiv_ | 2021 | no |
+| 28 | [deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search](http://arxiv.org/abs/2103.13020) | _TOSEM_     | 2021     | [yse](https://github.com/degraphcs/DeGraphCS) |
+| 29 | [An Intelligent Code Search Approach Using Hybrid Encoders](https://www.hindawi.com/journals/wcmc/2021/9990988/) | _Wirel. Commun. Mob. Comput._ | 2021 | no  |
+| 30 | [Two-Stage Attention-Based Model for Code Search with Textual and Structural Features](https://ieeexplore.ieee.org/document/9425924/) | _SANER_     | 2021     | [yes](https://github.com/cqu-isse/TabCS) |
+| 31 | [Deep Graph Matching and Searching for Semantic Code Retrieval](https://dl.acm.org/doi/10.1145/3447571) | _Trans. Knowl. Discov. Data_     | 2021     | [yes](https://github.com/ryderling/DGMS) |
+| 32 | [CoNCRA: A Convolutional Neural Network Code Retrieval Approach](http://arxiv.org/abs/2009.01959)   | _arXiv_     | 2022     | no |
+| 33 | [OCoR: An Overlapping-Aware Code Retriever](https://dl.acm.org/doi/10.1145/1122445.1122456) | _Comput. Surv._ | 2022 | [yes](https://github.com/anyone546/OCoR.) |
+| 34 | [CSRS: Code Search with Relevance Matching and Semantic Matching](http://arxiv.org/abs/2203.07736) | _arXiv_     | 2022   | no |
+| 35 | [Fine-grained Co-Attentive Representation Learning for Semantic Code Search](https://ieeexplore.ieee.org/document/9825816/) | _SANER_     | 2022     | [yes](https://github.com/cqu-isse/FcarCS) |
+| 36 | [Boosting Code Search with Structural Code Annotation](https://www.mdpi.com/2079-9292/11/19/3053)  | _Electronics_    | 2022     | no  |
+| 37 | [Joint Embedding of Semantic and Statistical Features for Effective Code Search](https://www.mdpi.com/2076-3417/12/19/10002) | _Applied Sciences_     | 2022     | no |
+| 38 | [Learning Deep Semantic Model for Code Search using CodeSearchNet Corpus](http://arxiv.org/abs/2201.11313) | _arXiv_     | 2022     | [yes](https://github.com/overwindows/SemanticCodeSearch) |
+| 39 | [Incorporating Code Structure and Quality in Deep Code Search](https://www.mdpi.com/2076-3417/12/4/2051) | _Applied Sciences_     | 2022     | no |
+| 40 | [Utilizing Edge Attention in Graph-Based Code Search](http://ksiresearchorg.ipage.com/seke/seke22paper/paper078.pdf) | _SEKE_     | 2022    | no |
+| 41 | [CSSAM:Code Search via Attention Matching of Code Semantics and Structures](http://arxiv.org/abs/2208.03922) | _arXiv_     | 2022  | no |
+| 42 | [Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings](http://arxiv.org/abs/2308.15234) | _arXiv_ | 2023 | no |
+| 43 | [XCoS: Explainable Code Search Based on Query Scoping and Knowledge Graph](https://dl.acm.org/doi/10.1145/3315508.3329975) | _TOSEM_ | 2023 | no |
+| 44 | [Self-Supervised Query Reformulation for Code Search](http://arxiv.org/abs/2307.00267) | _arXiv_ | 2023 | [yes](https://github.com/RedSmallPanda/SSQR) |
 
-
+[//]: # (| 4 | [SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis]&#40;https://dl.acm.org/doi/10.1145/2884781.2884808&#41; | _ICSE_ | 2016 | no |)
+[//]: # (| 6 | [RACK: Automatic API Recommendation Using Crowdsourced Knowledge]&#40;http://ieeexplore.ieee.org/document/7476656/&#41; | _SANER_ | 2016 | no |)
+[//]: # (| 12 | [Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics]&#40;http://arxiv.org/abs/1807.08798&#41; | _ICSME_ | 2018 | no |)
+[//]: # (| 22 | [Enhancing example-based code search with functional semantics]&#40;https://linkinghub.elsevier.com/retrieve/pii/S0164121220300492&#41; | _JSS_ | 2020 | no |)
+[//]: # (| 47 | [RunEx: Augmenting Regular-Expression Code Search with Runtime Values]&#40;https://from.so/static/dbaae30940b60addb67914a0cf61f215/Run_Exp_VLHCC_2023_386558a2d3.pdf&#41; | _VL/HCC_ | 2023 | no |)
 [//]: # (| 12 | [Improving source code search with natural language phrasal representations of method signatures]&#40;http://ieeexplore.ieee.org/document/6100115/&#41; | _ASE_ | 2011 | no |)
 [//]: # (| 4 | [CONQUER: A Tool for NL-based Query Reﬁnement & Contextualizing Code Search Results]&#40;https://ieeexplore.ieee.org/abstract/document/6676945/&#41; | _ICSME_ | 2013 | no |)
 ----------
